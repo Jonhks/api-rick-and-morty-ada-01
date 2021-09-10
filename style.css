@@ -32,5 +32,10 @@ nav{
   cursor: pointer;
 }
 
+.card{
+  height: 60vh;
+  overflow: hidden;
+}
+
 
 
